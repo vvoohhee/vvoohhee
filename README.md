@@ -1,4 +1,4 @@
-# Hello World! I's Woohee Park 🙇‍♂️
+# Hello World! It's Woohee Park 🙇‍♂️
 더 나은 서비스를 만들기 위해 노력하는 2년차 백엔드 개발차입니다. <br>
 1일 1커밋을 규칙으로 공부하는 매일을 만들기 위해 노력하고 있습니다. <br><br><br>
 
